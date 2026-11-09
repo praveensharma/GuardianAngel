@@ -1,0 +1,14 @@
+__pycache__/
+.DS_Store
+*.log
+
+*.py[cod]
+.env
+.env.*
+*.xcuserstate
+xcuserdata/
+/build/
+/DerivedData/
+/*.app/
+/releases/
+/archive/
